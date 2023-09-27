@@ -1,6 +1,6 @@
 ---
 title: "Gov 50 Final Project"
-author: Austen Wyche
+author: Max Austen Wyche
 description: My final project for GOV 50
 output:
   distill::distill_article:
