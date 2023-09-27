@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to the connection between a state's political leaning and the willingness of a United States Senator or Representative to vote in favor of the Respect for Marriage Act of 2022. 
